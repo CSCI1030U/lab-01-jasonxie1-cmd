@@ -9,7 +9,7 @@ def main():
 
     # Part 2 code
     print(f'cost_per_item = ${cost_per_item:0.2f}')
-    print(f'quantity = {quantity:f}')
+    print(f'quantity = {quantity:d}')
     print(f'subtotal_cost = ${subtotal_cost:0.2f}')
     print(f'tax = ${tax:0.2f}')
     print(f'total_cost = ${total_cost:0.2f}')
